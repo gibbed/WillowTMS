@@ -1,0 +1,30 @@
+﻿[MOTD]
+MessagesOfTheDay[0]=(Header="Trova una chiave dorata su Twitter!",Body="Segui @GearboxSoftware su Twitter, potresti ottenere chiavi dorate bonus e altro bottino!",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="Gioca Co-Op, ottieni bottino migliore ",Body="Più giocatori ci sono, più duri sono i nemici e migliore è il bottino!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="Forum di Borderlands 2",Body="Vai online e partecipa alle conversazioni dei fan su forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Ehi, Cacciatori della Cripta!",Body="Cosa aspettate? Basta leggere e tornate a giocare - Jack il Bello non si sconfiggerà da solo!",DisplayTime=15)
+CompatibilityMessageOfTheDay=(Header="Pacchetto compatibilità disponibile!",Body="Gioca online col pacchetto compatibilità gratuito!<br />Scegli Contenuto scaricabile nel menu principale.",DisplayTime=15)
+PreOrderSeasonPassMessageOfTheDay=(Header="Premiere Club installato!",Body="Benvenuto nel Premiere Club di Borderlands 2!<br />A breve avrai altri dettagli sulla Mechromante!",DisplayTime=15)
+PreOrderContentToInstallMessageOfTheDay=(Header="Personaggio gratuito!",Body="Mechromante gratis per i membri del Premiere Club!<br />Scegli Contenuto scaricabile nel menu principale!",DisplayTime=15)
+SeasonPassMessageOfTheDay=(Header="Season Pass installato!",Body="Congratulazioni per il Borderlands 2 Season Pass!<br />Presto troverai  ottimi contenuti scaricabili!",DisplayTime=15)
+ContentToInstallMessageOfTheDay=(Header="Contenuto scaricabile gratuito!",Body="Nuovi contenuti scaricabili per il Season Pass!<br />Scegli Contenuto scaricabile nel menu principale!",DisplayTime=15)
+UninstalledDlcMessageOfTheDay=(Header="Contenuto scaricabile disinstallato!",Body="Torna alla schermata del titolo per installare i contenuti scaricabili.",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Ci sono nuove offerte Gearbox Software Shift!<br />Dettagli su ''Codice Shift'' nel menu Extra!",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+HolidayMessageOfTheDay[1]=(Header="Notte delle zucche",Body="Pumpkin Kingpin è vivo! Vai a Hallowed Hollow e fagliela vedere!",DisplayTime=15)
+
+[DLCMissionNames]
+Orchid=Bottino dei pirati
+Iris=Campagna del Massacro
+
+[MarketplaceSellTextPC]
+0x00032BD6=
+0x00032BEA=
+0x00032BFE=
+0x00032F32=
+0x000340DA=
+0x000340EE=
+0x00034102=
+0x00034314=
+0x000355B6=
+0x000355C0=

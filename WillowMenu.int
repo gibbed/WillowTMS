@@ -1,0 +1,30 @@
+﻿[MOTD]
+MessagesOfTheDay[0]=(Header="Find a Golden Key on Twitter!",Body="Follow @GearboxSoftware on Twitter for your chance to get bonus Golden Keys and other loot!",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="Play Co-Op, Get Better Loot",Body="The more players in your game, the harder the enemies and better the loot will be!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="Borderlands 2 Forums",Body="Hop online and join in the discussion with fans at forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Hey, Vault Hunters!",Body="What are you waiting for? Stop reading and get back in the game – Handsome Jack isn't going to defeat himself!",DisplayTime=15)
+CompatibilityMessageOfTheDay=(Header="Compatibility Pack Available!",Body="Download the free compatibility pack to play online!<br />Select 'Downloadable Content' on the main menu.",DisplayTime=15)
+PreOrderSeasonPassMessageOfTheDay=(Header="Premiere Club Installed!",Body="Welcome to the Borderlands 2 Premiere Club!<br />Mechromancer details coming soon!",DisplayTime=15)
+PreOrderContentToInstallMessageOfTheDay=(Header="Free Character!",Body="The Mechromancer is now available as free downloadable content for Premiere Club members!<br />Select 'Downloadable Content' on the main menu for details!",DisplayTime=15)
+SeasonPassMessageOfTheDay=(Header="Season Pass Installed!",Body="Thanks for purchasing a Borderlands 2 Season Pass!<br />Look for great downloadable content coming soon!",DisplayTime=15)
+ContentToInstallMessageOfTheDay=(Header="Free Downloadable Content!",Body="New Season Pass downloadable content is available now!<br />Select 'Downloadable Content' on the main menu for details!",DisplayTime=15)
+UninstalledDlcMessageOfTheDay=(Header="Uninstalled Downloadable Content!",Body="Please return to the Title Screen to install your Downloadable Content.",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="You have new Gearbox Software Shift offers!<br />Select 'Shift Code' in the Extras menu for details!",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+HolidayMessageOfTheDay[1]=(Header="Hallowed Hollow",Body="The Pumpkin Kingpin lives! Get to Hallowed Hollow and show him what for!",DisplayTime=15)
+
+[DLCMissionNames]
+Orchid=Pirate's Booty
+Iris=Campaign of Carnage
+
+[MarketplaceSellTextPC]
+0x00032BD6=Borderlands 2 DLC Testbed
+0x00032BEA=Borderlands 2 Mechromancer character
+0x00032BFE=Borderlands 2 Orchid
+0x00032F32=Borderlands 2 GameStop pre-order bonus
+0x000340DA=Borderlands 2 Iris
+0x000340EE=Borderlands 2 Premiere Club
+0x00034102=Borderlands 2 Sage
+0x00034314=Borderlands 2 Collector's Edition
+0x000355B6=Borderlands 2 DLC4
+0x000355C0=Borderlands 2 Season Pass

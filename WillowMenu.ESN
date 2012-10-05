@@ -1,0 +1,30 @@
+﻿[MOTD]
+MessagesOfTheDay[0]=(Header="¡Encuentra una llave de oro en Twitter!",Body="¡Sigue @GearboxSoftware en Twitter para tener la oportunidad de conseguir llaves de oro y botín!",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="¡Más jugadores, mejor botín!",Body="Cuantos más jugadores haya en la partida, ¡más duros de pelar serán los enemigos!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="Foro de Borderlands 2",Body="Conéctate y participa en las discusiones con otros fans en forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="¡Eh, buscacámaras!",Body="¿A qué esperas? ¡Deja de leer y ponte a jugar! ¡Jack el guapo no se va a derrotar él solito!",DisplayTime=15)
+CompatibilityMessageOfTheDay=(Header="¡Paquete de compatibilidad disponible!",Body="¡Descárgalo para jugar en línea!<br />Ve a 'Descarga de contenido' en el menú principal",DisplayTime=15)
+PreOrderSeasonPassMessageOfTheDay=(Header="¡Club del estreno instalado!",Body="¡Bienvenido al club del estreno de Borderlands 2!<br />Pronto tendrás más detalles sobre la mecanomante",DisplayTime=15)
+PreOrderContentToInstallMessageOfTheDay=(Header="¡Personaje gratis!",Body="La mecanomante está disponible en 'Descarga de contenido' para miembros del club del estreno",DisplayTime=15)
+SeasonPassMessageOfTheDay=(Header="¡Season Pass instalado!",Body="¡Gracias por adquirir un Season Pass!<br />Pronto disfrutarás de tus descargas de contenido",DisplayTime=15)
+ContentToInstallMessageOfTheDay=(Header="¡Descarga de contenido gratuita!",Body="Nueva descarga de contenido Season Pass disponible<br />Ve a 'Descarga de contenido' para saber más",DisplayTime=15)
+UninstalledDlcMessageOfTheDay=(Header="¡Descarga de contenido desinstalada!",Body="Vuelve a la pantalla del título para instalar tu descarga de contenido",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="¡Tienes nuevas ofertas de Gearbox Software Shift!<br />Selecciona 'Código Shift' en Extras para saber más",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+HolidayMessageOfTheDay[1]=(Header="¡Vamos a partir calabazas!",Body="El Cabecilla Calabaza está vivo. ¡Ve a Hallowed Hollow y hazlo puré!",DisplayTime=15)
+
+[DLCMissionNames]
+Orchid=Botín pirata
+Iris=Escabechina sangrienta
+
+[MarketplaceSellTextPC]
+0x00032BD6=
+0x00032BEA=
+0x00032BFE=
+0x00032F32=
+0x000340DA=
+0x000340EE=
+0x00034102=
+0x00034314=
+0x000355B6=
+0x000355C0=
