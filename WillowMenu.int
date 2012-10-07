@@ -1,5 +1,5 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Find a Golden Key on Twitter!",Body="Follow @GearboxSoftware on Twitter for your chance to get bonus Golden Keys and other loot!",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Borderlands 2 on Twitter",Body="Follow @GearboxSoftware and @2KGames on Twitter for the latest news and updates on Borderlands 2!",DisplayTime=15)
 MessagesOfTheDay[1]=(Header="Play Co-Op, Get Better Loot",Body="The more players in your game, the harder the enemies and better the loot will be!",DisplayTime=15)
 MessagesOfTheDay[2]=(Header="Borderlands 2 Forums",Body="Hop online and join in the discussion with fans at forums.gearboxsoftware.com",DisplayTime=15)
 MessagesOfTheDay[3]=(Header="Hey, Vault Hunters!",Body="What are you waiting for? Stop reading and get back in the game – Handsome Jack isn't going to defeat himself!",DisplayTime=15)

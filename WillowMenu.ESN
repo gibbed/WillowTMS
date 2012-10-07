@@ -1,5 +1,5 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="¡Encuentra una llave de oro en Twitter!",Body="¡Sigue @GearboxSoftware en Twitter para tener la oportunidad de conseguir llaves de oro y botín!",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Borderlands 2 en Twitter",Body="Sigue a @GearboxSoftware y @2KGames en Twitter para conocer las últimas noticias de Borderlands 2",DisplayTime=15)
 MessagesOfTheDay[1]=(Header="¡Más jugadores, mejor botín!",Body="Cuantos más jugadores haya en la partida, ¡más duros de pelar serán los enemigos!",DisplayTime=15)
 MessagesOfTheDay[2]=(Header="Foro de Borderlands 2",Body="Conéctate y participa en las discusiones con otros fans en forums.gearboxsoftware.com",DisplayTime=15)
 MessagesOfTheDay[3]=(Header="¡Eh, buscacámaras!",Body="¿A qué esperas? ¡Deja de leer y ponte a jugar! ¡Jack el guapo no se va a derrotar él solito!",DisplayTime=15)

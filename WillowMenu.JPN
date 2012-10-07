@@ -1,5 +1,5 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Twitterで金の鍵を見つけよう！",Body="Twitterで@GearboxSoftwareをフォローして金の鍵とその他のアイテムを手に入れよう！",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="ボーダーランズ2 Twitter",Body="Twitter で公式アカウント（ @GearboxSoftware と @2KGames ）をフォローして『ボーダーランズ2』の最新情報をゲットしよう！",DisplayTime=15)
 MessagesOfTheDay[1]=(Header="CO-OP をプレイして良装備を狙え",Body="CO-OPの参加プレイヤーが多いほど敵は強くなり、そのぶんドロップ品の性能も上がっていく。",DisplayTime=15)
 MessagesOfTheDay[2]=(Header="ボーダーランズ2 公式フォーラム",Body="公式フォーラムはこちら: forums.gearboxsoftware.com 。（使用言語は基本的に英語のみとなりますのでご了承ください）",DisplayTime=15)
 MessagesOfTheDay[3]=(Header="Vault ハンターどもに告ぐ！",Body="本日のメッセージを眺めてても Handsome Jack は倒せないぜ。 分かったらとっととゲームの中で戦ってきな！",DisplayTime=15)
