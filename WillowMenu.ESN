@@ -1,8 +1,9 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Borderlands 2 en Twitter",Body="Sigue a @GearboxSoftware y @2KGames en Twitter para conocer las últimas noticias de Borderlands 2",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="¡Consigue botín extra en Facebook!",Body="¡Dale a "me gusta" en Facebook.com/BorderlandsGame para conseguir botín extra, como llaves de oro!",DisplayTime=15)
 MessagesOfTheDay[1]=(Header="¡Más jugadores, mejor botín!",Body="Cuantos más jugadores haya en la partida, ¡más duros de pelar serán los enemigos!",DisplayTime=15)
-MessagesOfTheDay[2]=(Header="Foro de Borderlands 2",Body="Conéctate y participa en las discusiones con otros fans en forums.gearboxsoftware.com",DisplayTime=15)
-MessagesOfTheDay[3]=(Header="¡Eh, buscacámaras!",Body="¿A qué esperas? ¡Deja de leer y ponte a jugar! ¡Jack el guapo no se va a derrotar él solito!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="¡Encuentra una llave de oro en Twitter!",Body="¡Sigue @GearboxSoftware en Twitter para tener la oportunidad de conseguir llaves de oro y botín!",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Foro de Borderlands 2",Body="Conéctate y participa en las discusiones con otros fans en forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[4]=(Header="¡Eh, buscacámaras!",Body="¿A qué esperas? ¡Deja de leer y ponte a jugar! ¡Jack el guapo no se va a derrotar él solito!",DisplayTime=15)
 CompatibilityMessageOfTheDay=(Header="¡Paquete de compatibilidad disponible!",Body="¡Descárgalo para jugar en línea!<br />Ve a 'Descarga de contenido' en el menú principal",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="¡Club del estreno instalado!",Body="¡Bienvenido al club del estreno de Borderlands 2!<br />Pronto tendrás más detalles sobre la mecanomante",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="¡Personaje gratis!",Body="La mecanomante está disponible en 'Descarga de contenido' para miembros del club del estreno",DisplayTime=15)
