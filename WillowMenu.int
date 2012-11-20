@@ -11,7 +11,6 @@ ContentToInstallMessageOfTheDay=(Header="Free Downloadable Content!",Body="New S
 UninstalledDlcMessageOfTheDay=(Header="Uninstalled Downloadable Content!",Body="Please return to the Title Screen to install your Downloadable Content.",DisplayTime=15)
 AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="You have new Gearbox Software Shift offers!<br />Select 'Shift Code' in the Extras menu for details!",DisplayTime=15)
 EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
-HolidayMessageOfTheDay[1]=(Header="Hallowed Hollow",Body="The Pumpkin Kingpin lives! Get to Hallowed Hollow and show him what for!",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=Pirate's Booty
@@ -22,7 +21,7 @@ Iris=Campaign of Carnage
 0x00032BEA=Borderlands 2 Mechromancer character
 0x00032BFE=Borderlands 2 Captain Scarlett and her Pirate's Booty
 0x00032F32=Borderlands 2 GameStop pre-order bonus
-0x000340DA=Borderlands 2 Iris
+0x000340DA=Borderlands 2 Mr. Torgue's Campaign of Carnage
 0x000340EE=Borderlands 2 Premiere Club
 0x00034102=Borderlands 2 Sage
 0x00034314=Borderlands 2 Collector's Edition
