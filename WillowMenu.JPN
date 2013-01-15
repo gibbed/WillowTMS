@@ -1,10 +1,9 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="バグハント・ウィークエンド",Body="今週末に開かれる「Sir Hammerlock と行くハンティング紀行 」のスペシャルイベントに参加しよう！詳細は gearboxsoftware.com でチェック！",DisplayTime=15)
-MessagesOfTheDay[1]=(Header="SHiFTコード (Twitter)",Body="Twitterで@GearboxSoftwareをフォローして、金の鍵とその他のボーナスアイテムに関する情報を手に入れよう！",DisplayTime=15)
-MessagesOfTheDay[2]=(Header="CO-OP をプレイして良装備を狙え",Body="CO-OPの参加プレイヤーが多いほど敵は強くなり、そのぶんドロップ品の性能も上がっていく。",DisplayTime=15)
-MessagesOfTheDay[3]=(Header="金の鍵 (Facebook)",Body="Facebook.com/BorderlandsGame を、「いいね！」して、金の鍵などのボーナスアイテムに関する情報を手に入れよう！",DisplayTime=15)
-MessagesOfTheDay[4]=(Header="ボーダーランズ2 公式フォーラム",Body="公式フォーラムはこちら: forums.gearboxsoftware.com 。（使用言語は基本的に英語のみとなりますのでご了承ください）",DisplayTime=15)
-MessagesOfTheDay[5]=(Header="Vault ハンターどもに告ぐ！",Body="本日のメッセージを眺めてても Handsome Jack は倒せないぜ。 分かったらとっととゲームの中で戦ってきな！",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="SHiFTコード (Twitter)",Body="Twitterで@GearboxSoftwareをフォローして、金の鍵とその他のボーナスアイテムに関する情報を手に入れよう！",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="CO-OP をプレイして良装備を狙え",Body="CO-OPの参加プレイヤーが多いほど敵は強くなり、そのぶんドロップ品の性能も上がっていく。",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="金の鍵 (Facebook)",Body="Facebook.com/BorderlandsGame を、「いいね！」して、金の鍵などのボーナスアイテムに関する情報を手に入れよう！",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="ボーダーランズ2 公式フォーラム",Body="公式フォーラムはこちら: forums.gearboxsoftware.com 。（使用言語は基本的に英語のみとなりますのでご了承ください）",DisplayTime=15)
+MessagesOfTheDay[4]=(Header="Vault ハンターどもに告ぐ！",Body="本日のメッセージを眺めてても Handsome Jack は倒せないぜ。 分かったらとっととゲームの中で戦ってきな！",DisplayTime=15)
 CompatibilityMessageOfTheDay=(Header="互換性パックが利用できます！",Body="オンラインでプレイするには、互換性パック（無料）をインストールしてください。<br />メイン メニューから ダウンロード コンテンツ を選択してください。",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="プレミア クラブのインストールが完了しました！",Body="ボーダーランズ2プレミア クラブへようこそ！<br />まもなく新キャラクター「メクロマンサー」の最新情報が発表されます！",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="無料キャラクター",Body="プレミア クラブ会員用無料ダウンロード コンテンツ、「メクロマンサー」の配信が開始されました！<br/>メイン メニューの「ダウンロード コンテンツ」をご確認ください！",DisplayTime=15)
@@ -13,11 +12,11 @@ ContentToInstallMessageOfTheDay=(Header="無料ダウンロード コンテン�
 UninstalledDlcMessageOfTheDay=(Header="ダウンロード コンテンツをアンインストールしました。",Body="ダウンロード コンテンツをインストールするには、タイトル画面に戻ってください。",DisplayTime=15)
 AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Gearbox Software Shift オファーがあります！<br />詳しくはメニュー内 'その他' の 'Shift コード' よりご確認ください。",DisplayTime=15)
 EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
-HolidayMessageOfTheDay[1]=(Header="ハロウ ホロウ",Body="Pumpkin Kingpin は実在した！ Hallowed Hollow へ向かい、一発お見舞いしてこよう！",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=海賊の秘宝
 Iris=キラー トーナメント
+Sage=Hammerlock のハンティング紀行
 
 [MarketplaceSellTextPC]
 0x00032BD6=

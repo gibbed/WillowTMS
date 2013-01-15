@@ -1,10 +1,9 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Chasse à la bébête",Body="Soyez prêts pour des événements en jeu spéciaux ce week-end ! Rendez-vous sur gearboxsoftware.com.",DisplayTime=15)
-MessagesOfTheDay[1]=(Header="Codes SHiFT sur Twitter",Body="Suivez @GearboxSoftware sur Twitter pour obtenir les dernières news sur les Clés d'or !",DisplayTime=15)
-MessagesOfTheDay[2]=(Header="Plus de Coop, c'est plus de butin !",Body="En mode coop, les ennemis sont plus balèzes et les butins sont de meilleure qualité !",DisplayTime=15)
-MessagesOfTheDay[3]=(Header="Clés d'or sur Facebook",Body="'Aimez' Facebook.com/BorderlandsGame pour obtenir les dernières news sur les Clés d'or !",DisplayTime=15)
-MessagesOfTheDay[4]=(Header="Forums de Borderlands 2",Body="Connectez-vous et discutez en ligne avec d'autres fans sur forums.gearboxsoftware.com.",DisplayTime=15)
-MessagesOfTheDay[5]=(Header="Salut, Chasseurs de l'Arche !",Body="Hé, le Beau Jack ne va pas se buter tout seul ! Allez, hop ! Lancez une partie dès maintenant !",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Codes SHiFT sur Twitter",Body="Suivez @GearboxSoftware sur Twitter pour obtenir les dernières news sur les Clés d'or !",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="Plus de Coop, c'est plus de butin !",Body="En mode coop, les ennemis sont plus balèzes et les butins sont de meilleure qualité !",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="Clés d'or sur Facebook",Body="'Aimez' Facebook.com/BorderlandsGame pour obtenir les dernières news sur les Clés d'or !",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Forums de Borderlands 2",Body="Connectez-vous et discutez en ligne avec d'autres fans sur forums.gearboxsoftware.com.",DisplayTime=15)
+MessagesOfTheDay[4]=(Header="Salut, Chasseurs de l'Arche !",Body="Hé, le Beau Jack ne va pas se buter tout seul ! Allez, hop ! Lancez une partie dès maintenant !",DisplayTime=15)
 CompatibilityMessageOfTheDay=(Header="Pack de compatibilité disponible !",Body="Téléchargez-le pour jouer en ligne !<br />Disponible dans ''Contenu téléchargeable''.",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="Club Exclusif installé !",Body="Bienvenue dans le Club Exclusif Borderlands 2 !<br />Plus d'infos sur la Mécromancienne très bientôt !",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="Personnage offert !",Body="La Mécromancienne est disponible pour les membres du Club Exclusif dans ''Contenu téléchargeable''.",DisplayTime=15)
@@ -13,11 +12,11 @@ ContentToInstallMessageOfTheDay=(Header="Contenu téléchargeable offert !",Body
 UninstalledDlcMessageOfTheDay=(Header="Contenu téléchargeable désinstallé !",Body="Veuillez retourner à l'écran-titre pour installer votre contenu téléchargeable.",DisplayTime=15)
 AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Nouvelles offres Gearbox Software Shift !<br />Choisir ''Code Shift'' dans le menu ''Bonus''.",DisplayTime=15)
 EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
-HolidayMessageOfTheDay[1]=(Header="L'attaque des Citrouilles !",Body="Il est vivant ! Allez à Hallowed Hollow et montrez au Caïd Citrouille de quoi vous êtes capable !",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=Butin de pirate
 Iris=Carnage Sanglant
+Sage=La Chasse d'Hammerlock
 
 [MarketplaceSellTextPC]
 0x00032BD6=
