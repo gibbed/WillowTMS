@@ -1,0 +1,11 @@
+﻿[Shields.AttrPresent_ImpactDamageBonus AttributePresentationDefinition]
+Description="Dan. ampl."
+
+[GD_AttributePresentation.Shields.AttrPresent_ImpactDamageBonus AttributePresentationDefinition]
+Description="Dan. ampl."
+
+[Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
+Description="Consumo ampl."
+
+[GD_AttributePresentation.Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
+Description="Consumo ampl."

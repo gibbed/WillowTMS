@@ -1,0 +1,11 @@
+﻿[Shields.AttrPresent_ImpactDamageBonus AttributePresentationDefinition]
+Description="Daño amplificado"
+
+[GD_AttributePresentation.Shields.AttrPresent_ImpactDamageBonus AttributePresentationDefinition]
+Description="Daño amplificado"
+
+[Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
+Description="Absorción disparo amplificado"
+
+[GD_AttributePresentation.Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
+Description="Absorción disparo amplificado"

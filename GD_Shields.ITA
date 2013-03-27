@@ -1,0 +1,17 @@
+﻿[A_Item.Shield_Impact:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Quando è carico al massimo, il tuo sparo successivo infligge [skill]danno amplificato[-skill]."
+
+[A_Item.Shield_Impact:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Sparare un [skill]colpo amplificato[-skill] consuma lo scudo."
+
+[A_Item.Shield_Impact_05_Legendary:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Quando è carico al massimo, il tuo sparo successivo infligge [skill]danno amplificato[-skill]."
+
+[GD_Shields.A_Item.Shield_Impact:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Quando è carico al massimo, il tuo sparo successivo infligge [skill]danno amplificato[-skill]."
+
+[GD_Shields.A_Item.Shield_Impact:AttributePresentationDefinition_1 AttributePresentationDefinition]
+Description="Sparare un [skill]colpo amplificato[-skill] consuma lo scudo."
+
+[GD_Shields.A_Item.Shield_Impact_05_Legendary:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Quando è carico al massimo, il tuo sparo successivo infligge [skill]danno amplificato[-skill]."
