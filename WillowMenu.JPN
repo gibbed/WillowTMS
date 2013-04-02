@@ -19,6 +19,12 @@ Orchid=海賊の秘宝
 Iris=キラー トーナメント
 Sage=Hammerlock のハンティング紀行
 
+[dlgDlcLevelCapNotInstalled]
+Prompt=%CHARACTERLEVEL%レベルのキャラクターには、現時点ではアクセスできないダウンロード コンテンツが必要です。\n\n%LEVELCAP%レベルを超えると、さらにレベルを上げることのできる追加ダウンロード コンテンツがインストールされない限り、これ以上の経験値は稼げません。
+
+[Playthrough]
+PLAYTHROUGH_NAME_3=Ultimate Vault Hunter
+
 [MarketplaceSellTextPC]
 0x00032BD6=
 0x00032BEA=

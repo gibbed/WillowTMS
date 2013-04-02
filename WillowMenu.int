@@ -19,6 +19,9 @@ Orchid=Pirate's Booty
 Iris=Campaign of Carnage
 Sage=Hammerlock's Hunt
 
+[Playthrough]
+PLAYTHROUGH_NAME_3=Ultimate Vault Hunter
+
 [MarketplaceSellTextPC]
 0x00032BD6=Borderlands 2 DLC Testbed
 0x00032BEA=Borderlands 2 Mechromancer character
@@ -30,3 +33,4 @@ Sage=Hammerlock's Hunt
 0x00034314=Borderlands 2 Collector's Edition
 0x000355B6=Borderlands 2 DLC4
 0x000355C0=Borderlands 2 Season Pass
+0x00036BC8=Borderlands 2 Ultimate Vault Hunter Upgrade Pack

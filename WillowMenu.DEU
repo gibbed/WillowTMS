@@ -22,6 +22,9 @@ Sage=Hammerlocks Jagd
 [DlcRequiredItem]
 Short=Benötigt {ITEMS}
 
+[Playthrough]
+PLAYTHROUGH_NAME_3=Ultim. Kammer-Jäger
+
 [MarketplaceSellTextPC]
 0x00032BD6=
 0x00032BEA=
