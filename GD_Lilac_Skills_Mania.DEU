@@ -1,0 +1,12 @@
+﻿[Skills.FeedTheMeat:AttributePresentationDefinition_32 AttributePresentationDefinition]
+Description="Schild-Ladeverz.: $NUMBER$ / sek"
+
+[Skills.FuelTheRampage:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Gesundheitssch.-Bonus: $NUMBER$"
+
+[Skills.SaltTheWound:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Nahkampfsch. pro Packen: $NUMBER$"
+
+[Skills.SaltTheWound:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description="Schrotflintensch. pro Packen: $NUMBER$"
+
