@@ -20,6 +20,7 @@ EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",Display
 Orchid=海賊の秘宝
 Iris=キラー トーナメント
 Sage=Hammerlock のハンティング紀行
+Aster=ドラゴンの城塞
 
 [dlgDlcLevelCapNotInstalled]
 Prompt=%CHARACTERLEVEL%レベルのキャラクターには、現時点ではアクセスできないダウンロード コンテンツが必要です。\n\n%LEVELCAP%レベルを超えると、さらにレベルを上げることのできる追加ダウンロード コンテンツがインストールされない限り、これ以上の経験値は稼げません。

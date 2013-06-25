@@ -20,6 +20,7 @@ EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",Display
 Orchid=Piratenschatz
 Iris=Kampagne des Metzelns
 Sage=Hammerlocks Jagd
+Aster=Drachenfestung
 
 [DlcRequiredItem]
 Short=Benötigt {ITEMS}

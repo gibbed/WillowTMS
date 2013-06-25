@@ -5,7 +5,7 @@ Description="Daño amplificado"
 Description="Daño amplificado"
 
 [Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
-Description="Absorción disparo amplificado"
+Description="Abs. disparo amplificado"
 
 [GD_AttributePresentation.Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
-Description="Absorción disparo amplificado"
+Description="Abs. disparo amplificado"
