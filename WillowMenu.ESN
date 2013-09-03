@@ -1,5 +1,5 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Equípate hasta los dientes",Body="Este fin de semana habrá eventos especiales en el juego para conseguir equipo. Más información en gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Pack de mejora definitivo 2",Body="¡Más niveles, más botín y más aventuras te aguardan! ¡Descarga el Pack de mejora definitivo 2!",DisplayTime=15)
 MessagesOfTheDay[1]=(Header="Carga. Apunta. ¡Vuélvete loco!",Body="¡Nuevo contenido descargable! ¡Krieg el psicópata ya esta aquí!",DisplayTime=15)
 MessagesOfTheDay[2]=(Header="Una aventura a otro nivel",Body="¡Píllate el Pack de mejora definitivo para conseguir más niveles, puntos de habilidad y botín!",DisplayTime=15)
 MessagesOfTheDay[3]=(Header="¡Más jugadores, mejor botín!",Body="Cuantos más jugadores haya en la partida, ¡más duros de pelar serán los enemigos!",DisplayTime=15)
