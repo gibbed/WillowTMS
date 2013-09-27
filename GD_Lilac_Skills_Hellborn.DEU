@@ -1,9 +1,0 @@
-﻿[Skills.FireFiend:AttributePresentationDefinition_2 AttributePresentationDefinition]
-Description="Nahkampf-Entfl.-Chance: $NUMBER$"
-
-[Skills.PainIsPower SkillDefinition]
-SkillDescription="[skill]Waffenschaden[-skill] für alle Waffen erhöht, ausgenommen Sniper Rifles.<br>[skill]Kritischer Trefferschaden[-skill] für alle Waffen reduziert.<br>[skill]Nahkampfschaden[-skill] erhöht.<br><br>Effekte verstärken sich, [incendiary]wenn du in Flammen stehst[-incendiary]."
-
-[Skills.PainIsPower:AttributePresentationDefinition_1 AttributePresentationDefinition]
-Description="Waffen- und Nahkampfsch.: $NUMBER$"
-

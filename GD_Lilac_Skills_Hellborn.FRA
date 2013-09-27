@@ -1,6 +1,0 @@
-﻿[Skills.PainIsPower SkillDefinition]
-SkillDescription="Les [skill]dégâts des armes[-skill] augmentent, sauf pour les fusils de précision. Les [skill]bonus de dégâts des coups critiques[-skill] sont réduits pour toutes les armes. Les [skill]dégâts au corps à corps[-skill] augmentent. Ces effets augmentent [incendiary]lorsque vous êtes embrasé[-incendiary]."
-
-[Skills.PainIsPower:AttributePresentationDefinition_1 AttributePresentationDefinition]
-Description="Dégâts armes et CAC : $NUMBER$"
-
