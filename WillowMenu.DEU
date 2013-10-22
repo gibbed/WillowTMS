@@ -1,14 +1,13 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Community-Tag 2013",Body="Triff uns online und sieh die Zukunft von Borderlands 2: gearboxsoftware.com/communityday",DisplayTime=15)
-MessagesOfTheDay[1]=(Header="Ultimativer Upgrade-Pack 2",Body="Mehr Levels, Beute und Abenteuer warten! Hol dir den Ultimativen Upgrade-Pack 2 noch heute!",DisplayTime=15)
-MessagesOfTheDay[2]=(Header="Laden. Entsichern. Lass es krachen.",Body="Neue Inhalte zum Herunterladen sind da! Spiele noch heute als Krieg, der Psycho!",DisplayTime=15)
-MessagesOfTheDay[3]=(Header="Ein neues Hoch des Abenteuers",Body="Schnapp dir den Ultimativen Upgrade Pack, für mehr Levels, Skill-Punkte und Beute!",DisplayTime=15)
-MessagesOfTheDay[4]=(Header="Spiel im Koop für bessere Beute",Body="Je mehr Spieler in deinem Spiel, umso härter sind die Gegner und umso besser wird die Beute!",DisplayTime=15)
-MessagesOfTheDay[5]=(Header="Eine neue Herausforderung wartet",Body="Level 50 erreicht? Probier doch mal den neuen Ultimativer Kammer-Jäger-Modus!",DisplayTime=15)
-MessagesOfTheDay[6]=(Header="SHiFT Codes auf Twitter!",Body="Folge @GearboxSoftware auf Twitter für Neuigkeiten zu Goldenen Schlüsseln und anderer extra Beute!",DisplayTime=15)
-MessagesOfTheDay[7]=(Header="Borderlands 2 Forum",Body="Geh online und schließ dich der Diskussion mit anderen Fans an unter forums.gearboxsoftware.com",DisplayTime=15)
-MessagesOfTheDay[8]=(Header="Goldene Schlüssel auf Facebook",Body="Klicke 'Gefällt mir' auf Facebook.com/BorderlandsGame um Neuigkeiten zu extra Beute und Goldenen Schlüsseln zu erhalten!",DisplayTime=15)
-MessagesOfTheDay[9]=(Header="Hey, Kammer-Jäger!",Body="Worauf wartest du? Hör mit dem Lesen auf und spiel weiter - Handsome Jack killt sich nicht selbst!",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Ultimativer Upgrade-Pack 2",Body="Mehr Levels, Beute und Abenteuer warten! Hol dir den Ultimativen Upgrade-Pack 2 noch heute!",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="Laden. Entsichern. Lass es krachen.",Body="Neue Inhalte zum Herunterladen sind da! Spiele noch heute als Krieg, der Psycho!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="Ein neues Hoch des Abenteuers",Body="Schnapp dir den Ultimativen Upgrade Pack, für mehr Levels, Skill-Punkte und Beute!",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Spiel im Koop für bessere Beute",Body="Je mehr Spieler in deinem Spiel, umso härter sind die Gegner und umso besser wird die Beute!",DisplayTime=15)
+MessagesOfTheDay[4]=(Header="Eine neue Herausforderung wartet",Body="Level 50 erreicht? Probier doch mal den neuen Ultimativer Kammer-Jäger-Modus!",DisplayTime=15)
+MessagesOfTheDay[5]=(Header="SHiFT Codes auf Twitter!",Body="Folge @GearboxSoftware auf Twitter für Neuigkeiten zu Goldenen Schlüsseln und anderer extra Beute!",DisplayTime=15)
+MessagesOfTheDay[6]=(Header="Borderlands 2 Forum",Body="Geh online und schließ dich der Diskussion mit anderen Fans an unter forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[7]=(Header="Goldene Schlüssel auf Facebook",Body="Klicke 'Gefällt mir' auf Facebook.com/BorderlandsGame um Neuigkeiten zu extra Beute und Goldenen Schlüsseln zu erhalten!",DisplayTime=15)
+MessagesOfTheDay[8]=(Header="Hey, Kammer-Jäger!",Body="Worauf wartest du? Hör mit dem Lesen auf und spiel weiter - Handsome Jack killt sich nicht selbst!",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="Premiere Club Installiert!",Body="Willkommen im Borderlands 2 Premiere Club! Infos zum Mechromancer folgen in Kürze!",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="Kostenloser Charakter!",Body="Der Mechromancer ist im Premiere Club jetzt erhältlich! Wähle im Menü 'Inhalte zum Herunterladen'!",DisplayTime=15)
 SeasonPassMessageOfTheDay=(Header="Season Pass installiert!",Body="Danke für den Kauf des Borderlands 2 Season Pass! Bald gibt es tolle Inhalte zum Herunterladen!",DisplayTime=15)
@@ -23,6 +22,7 @@ Iris=Kampagne des Metzelns
 Sage=Hammerlocks Jagd
 Aster=Drachenfestung
 Lobelia=Ultimativer Upgrade Pack 2
+Flax=Blutige Ernte
 
 [DlcRequiredItem]
 Short=Benötigt {ITEMS}

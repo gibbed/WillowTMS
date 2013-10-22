@@ -1,14 +1,13 @@
 ﻿[MOTD]
-MessagesOfTheDay[0]=(Header="Community Day 2013",Body="Join us online for a look at the future of Borderlands 2: gearboxsoftware.com/communityday",DisplayTime=15)
-MessagesOfTheDay[1]=(Header="Ultimate Upgrade Pack 2",Body="More levels, loot and adventure await: download Ultimate Upgrade Pack 2 today! ",DisplayTime=15)
-MessagesOfTheDay[2]=(Header="Lock. Load. Get Crazy.",Body="New downloadable content is here! Play as Krieg the Psycho today!",DisplayTime=15)
-MessagesOfTheDay[3]=(Header="A New Level of Adventure",Body="Grab the Ultimate Upgrade Pack for more levels, skill points and loot!",DisplayTime=15)
-MessagesOfTheDay[4]=(Header="Play Co-Op, Get Better Loot",Body="The more players in your game, the harder the enemies and better the loot will be!",DisplayTime=15)
-MessagesOfTheDay[5]=(Header="A New Challenge Awaits",Body="Reached level 50? Try out the new Ultimate Vault Hunter Mode!",DisplayTime=15)
-MessagesOfTheDay[6]=(Header="SHiFT Codes on Twitter",Body="Watch @GearboxSoftware on Twitter for news about Golden Keys and other bonus loot!",DisplayTime=15)
-MessagesOfTheDay[7]=(Header="Borderlands 2 Forums",Body="Hop online and join in the discussion with fans at forums.gearboxsoftware.com",DisplayTime=15)
-MessagesOfTheDay[8]=(Header="Golden Keys on Facebook",Body="Like Facebook.com/BorderlandsGame to get updates on bonus loot like Golden Keys!",DisplayTime=15)
-MessagesOfTheDay[9]=(Header="Hey, Vault Hunters!",Body="What are you waiting for? Stop reading and get back in the game – Handsome Jack isn't going to defeat himself!",DisplayTime=15)
+MessagesOfTheDay[0]=(Header="Ultimate Upgrade Pack 2",Body="More levels, loot and adventure await: download Ultimate Upgrade Pack 2 today! ",DisplayTime=15)
+MessagesOfTheDay[1]=(Header="Lock. Load. Get Crazy.",Body="New downloadable content is here! Play as Krieg the Psycho today!",DisplayTime=15)
+MessagesOfTheDay[2]=(Header="A New Level of Adventure",Body="Grab the Ultimate Upgrade Pack for more levels, skill points and loot!",DisplayTime=15)
+MessagesOfTheDay[3]=(Header="Play Co-Op, Get Better Loot",Body="The more players in your game, the harder the enemies and better the loot will be!",DisplayTime=15)
+MessagesOfTheDay[4]=(Header="A New Challenge Awaits",Body="Reached level 50? Try out the new Ultimate Vault Hunter Mode!",DisplayTime=15)
+MessagesOfTheDay[5]=(Header="SHiFT Codes on Twitter",Body="Watch @GearboxSoftware on Twitter for news about Golden Keys and other bonus loot!",DisplayTime=15)
+MessagesOfTheDay[6]=(Header="Borderlands 2 Forums",Body="Hop online and join in the discussion with fans at forums.gearboxsoftware.com",DisplayTime=15)
+MessagesOfTheDay[7]=(Header="Golden Keys on Facebook",Body="Like Facebook.com/BorderlandsGame to get updates on bonus loot like Golden Keys!",DisplayTime=15)
+MessagesOfTheDay[8]=(Header="Hey, Vault Hunters!",Body="What are you waiting for? Stop reading and get back in the game – Handsome Jack isn't going to defeat himself!",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="Premiere Club Installed!",Body="Welcome to the Borderlands 2 Premiere Club!<br />Mechromancer details coming soon!",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="Free Character!",Body="The Mechromancer is now available as free downloadable content for Premiere Club members!<br />Select 'Downloadable Content' on the main menu for details!",DisplayTime=15)
 SeasonPassMessageOfTheDay=(Header="Season Pass Installed!",Body="Thanks for purchasing a Borderlands 2 Season Pass!<br />Look for great downloadable content coming soon!",DisplayTime=15)
@@ -23,6 +22,7 @@ Iris=Campaign of Carnage
 Sage=Hammerlock's Hunt
 Aster=Dragon Keep
 Lobelia=Ultimate Upgrade Pack 2
+Flax=Bloody Harvest
 
 [Playthrough]
 PLAYTHROUGH_NAME_3=Ultimate Vault Hunter
