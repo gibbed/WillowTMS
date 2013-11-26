@@ -1,0 +1,9 @@
+﻿[M_KillSnowman MissionDefinition]
+MissionDescription="Marcus necesita que investigues [place]Gingerton[-place], una ciudad nevada en las montañas que espera un cargamento suyo."
+MissionSummary="Rescata [place]Gingerton[-place]. ¡Salva el día del mercenario!"
+
+[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Derrota al Abominable Míster Copo de Pedernal y salva el día del mercenario en [place]Gingerton[-place]."
+
+[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
+MissionDescriptionOverride="¡Puente desplegado! Hazle una señal al tren para indicar que el camino está despejado y vuelve a [place]Gingerton[-place]."

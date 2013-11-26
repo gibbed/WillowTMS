@@ -1,0 +1,9 @@
+﻿[M_KillSnowman MissionDefinition]
+MissionDescription="Marcus veut que vous inspectiez [place]Gingerton[-place], un village montagnard enneigé, qui attend l'arrivée d'une de ses cargaisons."
+MissionSummary="Sauvez [place]Gingerton[-place]. Sauvez la Saint-Mercenaire !"
+
+[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Venez à bout de l'Abominable Monsieur Brindille du Flocon et sauvez la Saint-Mercenaire à [place]Gingerton[-place]."
+
+[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Le pont est abaissé. Faites signe au train qu'il peut maintenant rentrer à [place]Gingerton[-place] !"

@@ -1,0 +1,9 @@
+﻿[M_KillSnowman MissionDefinition]
+MissionDescription="Marcus möchte, dass du in [place]Gingerton[-place] nach dem Rechten siehst, einer verschneiten Stadt in den Bergen, die eine Lieferung von ihm erwartet."
+MissionSummary="Rette [place]Gingerton[-place]. Rette den Söldner-Tag!"
+
+[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Besiege den Furchtbaren Mister Tinder Snowflake und rette den Söldner-Tag für [place]Gingerton[-place]."
+
+[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Brücke heruntergelassen. Signalisiere dem Zug, dass der Weg nach [place]Gingerton[-place] frei ist!"

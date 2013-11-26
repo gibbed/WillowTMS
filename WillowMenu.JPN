@@ -14,6 +14,7 @@ Sage=Hammerlock のハンティング紀行
 Aster=ドラゴンの城塞
 Lobelia=Ultimate アップグレード パック 2
 Flax=血の収穫祭
+AlliumTG=Wattle Gobbler
 
 [dlgDlcLevelCapNotInstalled]
 Prompt=%CHARACTERLEVEL%レベルのキャラクターには、現時点ではアクセスできないダウンロード コンテンツが必要です。\n\n%LEVELCAP%レベルを超えると、さらにレベルを上げることのできる追加ダウンロード コンテンツがインストールされない限り、これ以上の経験値は稼げません。

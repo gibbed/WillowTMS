@@ -1,0 +1,9 @@
+﻿[M_KillSnowman MissionDefinition]
+MissionDescription="Marcus needs you to investigate [place]Gingerton[-place], a snowy mountain town that is expecting a shipment from him."
+MissionSummary="Rescue [place]Gingerton[-place]. Save Mercenary Day!"
+
+[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Defeat the Abominable Mister Tinder Snowflake and save Mercenary Day for [place]Gingerton[-place]."
+
+[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
+MissionDescriptionOverride="Bridge lowered, signal the train that it is all clear to head back to [place]Gingerton[-place]!"
