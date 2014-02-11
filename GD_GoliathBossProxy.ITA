@@ -1,0 +1,5 @@
+﻿[Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
+PlayThroughs[0]=(DisplayName="La coppia felice",TransformedNames=((TransformedName="La coppia arrabbiata"),(TransformedName="La coppia inferocita"),(TransformedName="La coppia frenetica"),(TransformedName="La coppia furiosa "),(TransformedName="La coppia GOD-lia")))
+
+[GD_GoliathBossProxy.Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
+PlayThroughs[0]=(DisplayName="La coppia felice",TransformedNames=((TransformedName="La coppia arrabbiata"),(TransformedName="La coppia inferocita"),(TransformedName="La coppia frenetica"),(TransformedName="La coppia furiosa "),(TransformedName="La coppia GOD-lia")))

@@ -1,0 +1,23 @@
+﻿[NameTags.DialogName_Hodunkguy WillowDialogNameTag]
+CallerName="Pappy Hodunk"
+
+[GD_Nasturtium_VO.NameTags.DialogName_Hodunkguy WillowDialogNameTag]
+CallerName="Pappy Hodunk"
+
+[NameTags.DialogName_HodunkLady WillowDialogNameTag]
+CallerName="Hodunk Bridesmaid"
+
+[GD_Nasturtium_VO.NameTags.DialogName_HodunkLady WillowDialogNameTag]
+CallerName="Hodunk Bridesmaid"
+
+[NameTags.DialogName_ZafordGroomsman WillowDialogNameTag]
+CallerName="Zaford Groomsman"
+
+[GD_Nasturtium_VO.NameTags.DialogName_ZafordGroomsman WillowDialogNameTag]
+CallerName="Zaford Groomsman"
+
+[NameTags.DialogName_Zafordguy WillowDialogNameTag]
+CallerName="Pa Zaford"
+
+[GD_Nasturtium_VO.NameTags.DialogName_Zafordguy WillowDialogNameTag]
+CallerName="Pa Zaford"
