@@ -6,5 +6,4 @@ MissionSummary="[place]Gingerton[-place] を救って、 ハッピーな傭兵�
 MissionDescriptionOverride="Abominable Mr. Tinder Snowflake を倒し、 [place]Gingerton[-place] の傭兵記念日を救え。"
 
 [M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
-MissionSummaryOverride="車掌に合図を出す"
 MissionDescriptionOverride="橋は下がった。 [place]Gingerton[-place] に戻る準備はできたと列車に合図しよう！"
