@@ -1,11 +1,12 @@
 ﻿[MOTD]
+CompatibilityMessageOfTheDay=(Header="互換性パックが利用できます！",Body="オンラインでプレイするには、互換性パック（無料）をインストールしてください。<br />メイン メニューから ダウンロード コンテンツ を選択してください。",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="プレミア クラブのインストールが完了しました！",Body="ボーダーランズ2プレミア クラブへようこそ！<br />まもなく新キャラクター「メクロマンサー」の最新情報が発表されます！",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="無料キャラクター",Body="プレミア クラブ会員用無料ダウンロード コンテンツ、「メクロマンサー」の配信が開始されました！<br/>メイン メニューの「ダウンロード コンテンツ」をご確認ください！",DisplayTime=15)
 SeasonPassMessageOfTheDay=(Header="シーズン パスのインストールが完了しました",Body="ボーダーランズ2 シーズン パスをお買い上げいただきありがとうございます！<br />ダウンロード コンテンツの配信をお楽しみに！",DisplayTime=15)
 ContentToInstallMessageOfTheDay=(Header="無料ダウンロード コンテンツ登場！",Body="新しいシーズン パス用ダウンロード コンテンツが登場しました！<br />詳細はメイン メニューの「ダウンロード コンテンツ」をご確認下さい",DisplayTime=15)
 UninstalledDlcMessageOfTheDay=(Header="ダウンロード コンテンツをアンインストールしました。",Body="ダウンロード コンテンツをインストールするには、タイトル画面に戻ってください。",DisplayTime=15)
-AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Gearbox Software Shift オファーがあります！<br />詳しくはメニュー内 'その他' の 'Shift コード' よりご確認ください。",DisplayTime=15)
-EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="Gearbox Software SHiFT リワードがあります！<br />詳しくはメニュー内 'その他' の 'SHiFT コード' よりご確認ください。",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=海賊の秘宝
@@ -19,20 +20,5 @@ AlliumXmas=傭兵記念日
 NasturtiumVday=結婚闘争行進曲
 NasturtiumEaster=激闘！ 巨大蟹
 
-[dlgDlcLevelCapNotInstalled]
-Prompt=%CHARACTERLEVEL%レベルのキャラクターには、現時点ではアクセスできないダウンロード コンテンツが必要です。\n\n%LEVELCAP%レベルを超えると、さらにレベルを上げることのできる追加ダウンロード コンテンツがインストールされない限り、これ以上の経験値は稼げません。
-
 [Playthrough]
 PLAYTHROUGH_NAME_3=Ultimate Vault Hunter
-
-[MarketplaceSellTextPC]
-0x00032BD6=
-0x00032BEA=
-0x00032BFE=
-0x00032F32=
-0x000340DA=
-0x000340EE=
-0x00034102=
-0x00034314=
-0x000355B6=
-0x000355C0=

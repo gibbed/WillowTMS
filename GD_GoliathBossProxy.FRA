@@ -1,5 +1,0 @@
-﻿[Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
-PlayThroughs[0]=(DisplayName="Jeunes Mariés",TransformedNames=((TransformedName="Jeunes Mariés Énervés"),(TransformedName="Jeunes Mariés Enragés"),(TransformedName="Jeunes Mariés Frénétiques"),(TransformedName="Jeunes Mariés Furibonds"),(TransformedName="Jeunes Mariés GRO-liaths")))
-
-[GD_GoliathBossProxy.Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
-PlayThroughs[0]=(DisplayName="Jeunes Mariés",TransformedNames=((TransformedName="Jeunes Mariés Énervés"),(TransformedName="Jeunes Mariés Enragés"),(TransformedName="Jeunes Mariés Frénétiques"),(TransformedName="Jeunes Mariés Furibonds"),(TransformedName="Jeunes Mariés GRO-liaths")))

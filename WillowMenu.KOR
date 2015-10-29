@@ -1,0 +1,24 @@
+﻿[MOTD]
+CompatibilityMessageOfTheDay=(Header="호환 팩이 나왔습니다!",Body="무료 호환 팩을 다운로드해서 온라인으로 즐겨보십시오!<br />메인 메뉴에 있는 '다운로드 콘텐츠'를 선택하십시오.",DisplayTime=15)
+PreOrderSeasonPassMessageOfTheDay=(Header="프리미어 클럽이 설치되었습니다!",Body="보더랜드2의 프리미어 클럽에 오신 것을 환영합니다!<br />메크로맨서에 관한 자세한 내용이 곧 나올 예정입니다!",DisplayTime=15)
+PreOrderContentToInstallMessageOfTheDay=(Header="무료 캐릭터 등장!",Body="프리미어 클럽 회원을 위해 메크로맨서가 무료로 제공됩니다!<br />자세한 내용은 메인 메뉴의 '다운로드 콘텐츠'를 참고하십시오!",DisplayTime=15)
+SeasonPassMessageOfTheDay=(Header="시즌권이 설치되었습니다!",Body="보더랜드2 시즌권를 구입해 주셔서 감사합니다!<br />곧 멋진 다운로드 콘텐츠들이 제공될 예정입니다!",DisplayTime=15)
+ContentToInstallMessageOfTheDay=(Header="무료 다운로드 콘텐츠가 나왔습니다!",Body="새로운 시즌권 다운로드 가능 콘텐츠가 나왔습니다!<br />자세한 내용은 메인 메뉴의 '다운로드 가능 콘텐츠'를 참고하십시오!",DisplayTime=15)
+UninstalledDlcMessageOfTheDay=(Header="다운로드 콘텐츠가 제거되었습니다!",Body="다운로드 콘텐츠를 설치하려면 메인 메뉴 화면으로 돌아가십시오.",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="새로운 Gearbox Software SHiFT 보상을 획득하였습니다!<br />자세한 내용은 기타 메뉴의 'SHiFT 코드' 에서 확인하세요!",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="",DisplayTime=15)
+
+[DLCMissionNames]
+Orchid=Pirate's Booty
+Iris=Campaign of Carnage
+Sage=Hammerlock's Hunt
+Aster=Dragon Keep
+Lobelia=Ultimate 업그레이드 팩 2
+Flax=피의 수확제
+AlliumTG=Wattle Gobbler
+AlliumXmas=용병의 날
+NasturtiumVday=Wedding Day Massacre
+NasturtiumEaster=Son of Crawmerax
+
+[Playthrough]
+PLAYTHROUGH_NAME_3=Ultimate Vault Hunter

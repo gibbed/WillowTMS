@@ -1,11 +1,12 @@
 ﻿[MOTD]
+CompatibilityMessageOfTheDay=(Header="Kompabilitäts-Paket erhältlich!",Body="Lade gratis Kompatibilitäts-Pack, um online zu spielen! Wähle 'Inhalte zum Herunterladen' im Menü.",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="Premiere Club Installiert!",Body="Willkommen im Borderlands 2 Premiere Club! Infos zum Mechromancer folgen in Kürze!",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="Kostenloser Charakter!",Body="Der Mechromancer ist im Premiere Club jetzt erhältlich! Wähle im Menü 'Inhalte zum Herunterladen'!",DisplayTime=15)
 SeasonPassMessageOfTheDay=(Header="Season Pass installiert!",Body="Danke für den Kauf des Borderlands 2 Season Pass! Bald gibt es tolle Inhalte zum Herunterladen!",DisplayTime=15)
 ContentToInstallMessageOfTheDay=(Header="Kostenlose Inhalte zum Herunterladen!",Body="Es gibt neue Inhalte für den Season Pass! Wähle 'Inhalte zum Herunterladen' im Menü, für mehr Info!",DisplayTime=15)
 UninstalledDlcMessageOfTheDay=(Header="Inhalt zum Herunterladen deinstalliert!",Body="Gehe zum Hauptmenü, um Inhalte zum Herunterladen zu installieren.",DisplayTime=15)
-AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Du hast neue Gearbox Software Shift-Angebote! Wähle 'Shift-Code' im Menü 'Extras' für Info.",DisplayTime=15)
-EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="Du hast neue Gearbox Software SHiFT-Belohnungen! Wähle 'SHiFT-Code' im Menü 'Extras' für Info.",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=Piratenschatz
@@ -19,20 +20,5 @@ AlliumXmas=Söldner-Tag
 NasturtiumVday=Hochzeits-Massaker
 NasturtiumEaster=Sohn von Crawmerax
 
-[DlcRequiredItem]
-Short=Benötigt {ITEMS}
-
 [Playthrough]
 PLAYTHROUGH_NAME_3=Ultim. Kammer-Jäger
-
-[MarketplaceSellTextPC]
-0x00032BD6=
-0x00032BEA=
-0x00032BFE=
-0x00032F32=
-0x000340DA=
-0x000340EE=
-0x00034102=
-0x00034314=
-0x000355B6=
-0x000355C0=

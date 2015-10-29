@@ -1,9 +1,0 @@
-﻿[M_KillSnowman MissionDefinition]
-MissionDescription="Marcus vuole che perlustri [place]Gingerton[-place], un'innevata città montana che è in attesa di un suo carico d'armi."
-MissionSummary="Salva [place]Gingerton[-place]. Salva il Giorno del Mercenario!"
-
-[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
-MissionDescriptionOverride="Sconfiggi l'Abominevole Mister Tinder Snowflake e salva il Giorno del Mercenario per [place]Gingerton[-place]."
-
-[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
-MissionDescriptionOverride="Ponte abbassato, segnala al treno che la strada per tornare a [place]Gingerton[-place] è libera!"

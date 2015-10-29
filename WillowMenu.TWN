@@ -1,0 +1,24 @@
+﻿[MOTD]
+CompatibilityMessageOfTheDay=(Header="有相容性套件可以使用！",Body="快下載免費的相容性套件來進行線上遊戲！ <br />請在主畫面選取 [下載內容]。",DisplayTime=15)
+PreOrderSeasonPassMessageOfTheDay=(Header="已安裝 Premiere Club",Body="歡迎來到「邊緣禁地2」Premiere Club！ <br />機械法師的詳細資訊即將推出！",DisplayTime=15)
+PreOrderContentToInstallMessageOfTheDay=(Header="免費的角色！",Body="Premiere Club 的會員現在可以免費下載機械法師了！<br />請在主畫面選取 [下載內容] 來獲得詳細資訊！",DisplayTime=15)
+SeasonPassMessageOfTheDay=(Header="已安裝季票！",Body="感謝您購買「邊緣禁地2」季票！ <br />我們很快就會推出很棒的下載內容！ ",DisplayTime=15)
+ContentToInstallMessageOfTheDay=(Header="免費的下載內容",Body="新的季票下載內容現已推出！ <br />請在主畫面選取 [下載內容] 來獲得詳細資訊！",DisplayTime=15)
+UninstalledDlcMessageOfTheDay=(Header="已解除安裝下載內容！",Body="請返回標題畫面來安裝您的下載內容。",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="您獲得新的 Gearbox Software SHiFT 獎勵！ <br />請在 [其他] 選單中選取 [SHiFT 代碼] 來獲得詳細資訊！",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="",DisplayTime=15)
+
+[DLCMissionNames]
+Orchid=海盜寶藏
+Iris=屠殺戰役
+Sage=Hammerlock 的大狩獵
+Aster=Dragon Keep
+Lobelia=終極升級套件2
+Flax=的血腥收割
+AlliumTG=Wattle Gobbler
+AlliumXmas=傭兵記念日
+NasturtiumVday=婚禮大屠殺
+NasturtiumEaster=Son of Crawmerax
+
+[Playthrough]
+PLAYTHROUGH_NAME_3=終極寶庫獵人

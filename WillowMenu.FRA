@@ -1,11 +1,12 @@
 ﻿[MOTD]
+CompatibilityMessageOfTheDay=(Header="Pack de compatibilité disponible !",Body="Téléchargez-le pour jouer en ligne !<br />Disponible dans ''Contenu téléchargeable''.",DisplayTime=15)
 PreOrderSeasonPassMessageOfTheDay=(Header="Club Exclusif installé !",Body="Bienvenue dans le Club Exclusif Borderlands 2 !<br />Plus d'infos sur la Mécromancienne très bientôt !",DisplayTime=15)
 PreOrderContentToInstallMessageOfTheDay=(Header="Personnage offert !",Body="La Mécromancienne est disponible pour les membres du Club Exclusif dans ''Contenu téléchargeable''.",DisplayTime=15)
 SeasonPassMessageOfTheDay=(Header="Season Pass installé !",Body="Merci d'avoir acheté un Season Pass pour Borderlands 2. Contenu téléchargeable bientôt disponible !",DisplayTime=15)
 ContentToInstallMessageOfTheDay=(Header="Contenu téléchargeable offert !",Body="Nouveau contenu téléchargeable Season Pass ! <br />Disponible dans ''Contenu téléchargeable''.",DisplayTime=15)
 UninstalledDlcMessageOfTheDay=(Header="Contenu téléchargeable désinstallé !",Body="Veuillez retourner à l'écran-titre pour installer votre contenu téléchargeable.",DisplayTime=15)
-AccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="Nouvelles offres Gearbox Software Shift !<br />Choisir ''Code Shift'' dans le menu ''Bonus''.",DisplayTime=15)
-EmergencyAccountMessageOfTheDay=(Header="Gearbox Software Shift",Body="",DisplayTime=15)
+AccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="Nouvelles récompenses Gearbox Software SHiFT !<br />Choisir ''Code SHiFT'' dans le menu ''Bonus''.",DisplayTime=15)
+EmergencyAccountMessageOfTheDay=(Header="Gearbox Software SHiFT",Body="",DisplayTime=15)
 
 [DLCMissionNames]
 Orchid=Butin de pirate
@@ -21,15 +22,3 @@ NasturtiumEaster=Le Fils de Crawmerax
 
 [Playthrough]
 PLAYTHROUGH_NAME_3=Chasseur Ultime 2
-
-[MarketplaceSellTextPC]
-0x00032BD6=
-0x00032BEA=
-0x00032BFE=
-0x00032F32=
-0x000340DA=
-0x000340EE=
-0x00034102=
-0x00034314=
-0x000355B6=
-0x000355C0=

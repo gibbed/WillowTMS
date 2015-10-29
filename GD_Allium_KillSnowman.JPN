@@ -1,9 +1,0 @@
-﻿[M_KillSnowman MissionDefinition]
-MissionDescription="Marcus から雪に包まれた山奥の町、 [place]Gingerton[-place] を調査してほしいと頼まれた。 Marcus はその町に武器を出荷したようだ。"
-MissionSummary="[place]Gingerton[-place] を救って、 ハッピーな傭兵記念日を！"
-
-[M_KillSnowman:ObjSet_KillSnowman MissionObjectiveSetDefinition]
-MissionDescriptionOverride="Abominable Mr. Tinder Snowflake を倒し、 [place]Gingerton[-place] の傭兵記念日を救え。"
-
-[M_KillSnowman:ObjSet_SignalTrain MissionObjectiveSetDefinition]
-MissionDescriptionOverride="橋は下がった。 [place]Gingerton[-place] に戻る準備はできたと列車に合図しよう！"

@@ -1,5 +1,0 @@
-﻿[Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
-PlayThroughs[0]=(DisplayName="Das glückliche Paar",TransformedNames=((TransformedName="Das verärgerte Paar"),(TransformedName="Das wütende Paar"),(TransformedName="Das rasende Paar"),(TransformedName="Das schäumende Paar"),(TransformedName="Das GOD-liath-Paar")))
-
-[GD_GoliathBossProxy.Population.PawnBalance_GoliathBossProxy_Raid AIPawnBalanceDefinition]
-PlayThroughs[0]=(DisplayName="Das glückliche Paar",TransformedNames=((TransformedName="Das verärgerte Paar"),(TransformedName="Das wütende Paar"),(TransformedName="Das rasende Paar"),(TransformedName="Das schäumende Paar"),(TransformedName="Das GOD-liath-Paar")))
